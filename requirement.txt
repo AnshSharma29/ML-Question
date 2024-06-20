@@ -1,0 +1,10 @@
+Libraries required - 
+
+1. json
+2. nltk
+3. nltk.tokenize import word_tokenize
+4. nltk.corpus import stopwords
+5. datetime import datetime
+6. matplotlib.pyplot as plt
+7. IPython.display import display
+8. plotly.graph_objects as go
